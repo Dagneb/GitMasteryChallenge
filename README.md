@@ -1,3 +1,4 @@
+Software engineering exercise
 Working with git localy
 
 <<<<<<< HEAD
