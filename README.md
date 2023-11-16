@@ -10,4 +10,7 @@ The Third update on the file
 >>>>>>> feature-branch
 Collaorative branch created
 >>>>>>> new
->>>>>>> d
+first commit from classmate
+second commit from classmate
+new update
+second update by myself
