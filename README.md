@@ -9,3 +9,4 @@ The second update on the file
 The Third update on the file
 >>>>>>> feature-branch
 Collaorative branch created
+>>>>>>> new
